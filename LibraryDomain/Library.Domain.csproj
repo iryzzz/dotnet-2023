@@ -12,5 +12,6 @@
 
   <ItemGroup>
     <PackageReference Include="MySql.EntityFrameworkCore" Version="8.0.0" />
+    <PackageReference Include="Avalonia" Version="11.0.10" />
   </ItemGroup>
 </Project>
